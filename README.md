@@ -11,11 +11,14 @@ https://github.com/user-attachments/assets/9738317f-aef8-455d-9b4a-2f5ba7e132f6
 
 ---
 
-## 📌 Overview
+## 📌 Overview & Motivations
 
 PixFooty is a single-player 2D football simulation developed to explore real-time systems, object-oriented design, and physics modelling in C++.  
-
 The project focuses on clean architecture, structured debugging, and implementing responsive gameplay mechanics from scratch.
+
+As a sports person and passionate football fan, majority of my gaming experience has been sports based games such as FIFA and Football Manager, so I’m sticking with a sports related game.
+The opportunity to combine my academic strengths and interests of software development with my extra-cirricular interest in football is an element that will make this project a great experience.
+The game that has inspired my idea, is a mobile game called Head Soccer. The user selects players of different nationalities against AI players of increasing difficulty.
 
 ---
 
