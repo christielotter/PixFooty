@@ -2,6 +2,13 @@
 
 A real-time 2D pixel-art football game built in C++, featuring physics-based ball mechanics, player control, and AI opposition.
 
+Video Demonstration:
+
+
+
+https://github.com/user-attachments/assets/9738317f-aef8-455d-9b4a-2f5ba7e132f6
+
+
 ---
 
 ## 📌 Overview
@@ -42,8 +49,8 @@ The project focuses on clean architecture, structured debugging, and implementin
 - Iterative testing and refinement
 - Emphasis on clean, readable C++ implementation
 
-### Embedded Integration (if applicable)
-- Hardware-based user input implementation
+### Embedded Integration
+- Hardware-based user input implementation with buttons and an LCD screen
 - Consideration of memory and performance constraints
 
 ---
@@ -52,8 +59,15 @@ The project focuses on clean architecture, structured debugging, and implementin
 
 - C++
 - Object-Oriented Programming
-- Git Version Control
 - Real-time simulation principles
+
+---
+
+## Improvements for next time
+
+- LCD with higher resolution for improved fps, collision mechanics and characters
+- Varying difficulty modes
+- Character choice
 
 ---
 
@@ -66,3 +80,6 @@ while (gameRunning) {
     handleCollisions();
     renderFrame();
 }
+
+
+
